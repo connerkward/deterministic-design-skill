@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "deterministic-design-skill",
+  "name": "deterministic-design",
   "description": "Render your UI and prove it's balanced + usable: deterministic layout audit + vision-judged usability.",
   "owner": {
     "name": "Conner K Ward",
