@@ -1,0 +1,25 @@
+{
+  "name": "deterministic-design",
+  "description": "deterministic-design is a Claude Code skill that renders your UI and proves it's balanced and usable",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conner K Ward",
+    "url": "https://github.com/connerkward"
+  },
+  "homepage": "https://github.com/connerkward/deterministic-design-skill",
+  "repository": "https://github.com/connerkward/deterministic-design-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "claude-code-skill",
+    "agent-skills",
+    "anthropic",
+    "design",
+    "ui",
+    "layout",
+    "design-system",
+    "usability",
+    "frontend"
+  ]
+}
