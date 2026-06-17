@@ -1,5 +1,7 @@
 # deterministic-design
 
+*deterministic-design is a Claude Code skill that renders your UI and proves it's balanced + usable: a deterministic layout audit plus a vision-judged usability score.*
+
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue) ![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-d97757) ![Numbers, not vibes](https://img.shields.io/badge/numbers-not%20vibes-46d39a) ![Layout audit](https://img.shields.io/badge/layout-audit-111)
 
 **A model can't trust its own eye on layout — so don't. Render the UI and *measure* it: balance is an ink-weighted centroid vs the optical center (a number, not a vibe), an annotated overlay flags low contrast, sub-44px tap targets, spacing and alignment, and a separate fresh-eyes vision judge scores usability against Nielsen's heuristics.**

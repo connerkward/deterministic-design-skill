@@ -1,0 +1,14 @@
+# deterministic-design
+
+> deterministic-design is a Claude Code skill that renders your UI and proves it's balanced and usable: a deterministic layout audit plus a vision-judged usability score.
+
+## Install (Claude Code)
+- Add the marketplace: `/plugin marketplace add connerkward/ckw-skills`
+- Install this plugin: `/plugin install deterministic-design@connerkward`
+
+## Links
+- Canonical README: https://github.com/connerkward/deterministic-design-skill
+- Marketplace (all of Conner K. Ward's skills + MCP servers): https://github.com/connerkward/ckw-skills
+
+## Optional
+- Author: Conner K. Ward — https://github.com/connerkward
