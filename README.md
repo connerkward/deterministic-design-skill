@@ -4,7 +4,7 @@
 
 **A model can't trust its own eye on layout — so don't. Render the UI and *measure* it: balance is an ink-weighted centroid vs the optical center (a number, not a vibe), an annotated overlay flags low contrast, sub-44px tap targets, spacing and alignment, and a separate fresh-eyes vision judge scores usability against Nielsen's heuristics.**
 
-![deterministic-design: a balance-beam diagram — a light, tall text block (w=46) on the left vs a heavy, compact portrait (w=80) on the right, sitting on a beam that tilts over an optical-center fulcrum, with left/right moment numbers and the net tilt shown below](docs/balance-explorable.png)
+![deterministic-design: a balance-beam diagram — a light, tall text block (w=46) on the left vs a heavy, compact portrait (w=80) on the right, sitting on a beam that tilts over an optical-center fulcrum, with left/right moment numbers and the net tilt shown below](docs/demo.gif)
 
 *Balance as physics, not taste: each element's visual weight is a moment about the optical center; the layout "tips" toward the heavier side by a measured amount. The audit computes this on a real screenshot — here the portrait (right, heavy) outweighs the text column (left, tall but light), so the net tilts right.*
 
