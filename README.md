@@ -53,3 +53,7 @@ One of two flagship narratives — the **determinism** one (measure the output).
 ## License
 
 MIT © Conner K Ward
+
+---
+
+🧭 **[ckw-skills](https://github.com/connerkward/ckw-skills)** — part of Conner K. Ward's collection of Claude Code skills & MCP servers.
